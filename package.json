@@ -1,0 +1,22 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "just a basic express project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "express",
+    "express-skeleton",
+    "express-js"
+  ],
+  "author": "Daniele Barbaro",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
